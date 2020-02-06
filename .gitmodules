@@ -1,0 +1,39 @@
+[submodule "leaflet"]
+	path = leaflet
+	url = https://github.com/Data-For-Public-Good/leaflet.git
+[submodule "arts-vibrancy-index"]
+	path = arts-vibrancy-index
+	url = https://github.com/Data-For-Public-Good/arts-vibrancy-index.git
+[submodule "mass_media_mentions"]
+	path = mass_media_mentions
+	url = https://github.com/Data-For-Public-Good/mass_media_mentions.git
+[submodule "arts-participation"]
+	path = arts-participation
+	url = https://github.com/Data-For-Public-Good/arts-participation.git
+[submodule "irs_dataset"]
+	path = irs_dataset
+	url = https://github.com/Data-For-Public-Good/irs_dataset.git
+[submodule "transportation-data"]
+	path = transportation-data
+	url = https://github.com/Data-For-Public-Good/transportation-data.git
+[submodule "DCLA_cultural_organizations"]
+	path = DCLA_cultural_organizations
+	url = https://github.com/Data-For-Public-Good/DCLA_cultural_organizations.git
+[submodule "Documentation"]
+	path = Documentation
+	url = https://github.com/Data-For-Public-Good/Documentation.git
+[submodule "SurveyofPublicParticipationintheArts"]
+	path = SurveyofPublicParticipationintheArts
+	url = https://github.com/Data-For-Public-Good/SurveyofPublicParticipationintheArts.git
+[submodule "IPUMS-Census-Data"]
+	path = IPUMS-Census-Data
+	url = https://github.com/Data-For-Public-Good/IPUMS-Census-Data.git
+[submodule "NYC_areas_of_interest"]
+	path = NYC_areas_of_interest
+	url = https://github.com/Data-For-Public-Good/NYC_areas_of_interest.git
+[submodule "NYC_school_districts"]
+	path = NYC_school_districts
+	url = https://github.com/Data-For-Public-Good/NYC_school_districts.git
+[submodule "NTA_neighborhood_tabulation_areas"]
+	path = NTA_neighborhood_tabulation_areas
+	url = https://github.com/Data-For-Public-Good/NTA_neighborhood_tabulation_areas.git
